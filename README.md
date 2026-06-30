@@ -3,7 +3,7 @@
 
 # Exploring Netflix: A Data-Driven Look at 8,807 Titles
 
-## 🔑 Key Insights (TL;DR)
+## 🔑 Key Insights:
 
 **1. Content Explosion Post-2015**
 Netflix's content additions grew sharply from 2015 onward, with Movie additions consistently outpacing TV Shows by roughly 2x at peak volume (2019: ~1,420 Movies vs. ~590 TV Shows). Both categories show an apparent decline after 2019; note that 2021 data is incomplete (covering only through September 25, 2021), so this trailing dip should not be read as a confirmed slowdown.
